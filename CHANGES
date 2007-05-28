@@ -1,0 +1,9 @@
+Changes for 0.02    Mon May 28 11:46:52 2007
+============================================
+* This is an administrative update only: Users do not
+  need to upgrade.
+* As of perl 5.9.5, Log::Message::Simple is part
+  of core perl and should be installed in the 'perl'
+  dir rather than the 'site' dir.
+* Improve test suite under perl core tests  
+* Quell some test warnings   
