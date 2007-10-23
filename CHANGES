@@ -1,3 +1,8 @@
+Changes for 0.04    Mon Oct 22 14:10:23 2007
+============================================
+* Documentation nits. Users of 0.02 are not 
+  required to upgrade.
+
 Changes for 0.02    Mon May 28 11:46:52 2007
 ============================================
 * This is an administrative update only: Users do not
