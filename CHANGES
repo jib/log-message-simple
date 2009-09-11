@@ -1,3 +1,7 @@
+Changes for 0.06    Fri Sep 11 07:17:57 2009
+============================================
+* Abstract fix in POD. Resolves RT #49562
+
 Changes for 0.04    Mon Oct 22 14:10:23 2007
 ============================================
 * Documentation nits. Users of 0.02 are not 
