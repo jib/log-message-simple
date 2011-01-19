@@ -1,3 +1,7 @@
+Changes for 0.08    Wed Jan 19 10:22:12 2011
+============================================
+* POD fix from Michael Stevens [rt.cpan.org #64877]
+
 Changes for 0.06    Fri Sep 11 07:17:57 2009
 ============================================
 * Abstract fix in POD. Resolves RT #49562
