@@ -11,6 +11,7 @@ WriteMakefile (
     PREREQ_PM       => {    'Carp'          => 0,
                             'Test::More'    => 0,
                             'Log::Message'  => 0,
+                            'if'            => 0,
                     },
     INSTALLDIRS     => ( $] >= 5.009005 && $] < 5.012 ? 'perl' : 'site' ),
     AUTHOR          => 'Jos Boumans <kane[at]cpan.org>',
