@@ -1,4 +1,5 @@
 package Log::Message::Simple;
+use if $] > 5.017, 'deprecate';
 
 use strict;
 use Log::Message private => 0;;
