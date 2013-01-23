@@ -1,7 +1,7 @@
 This is the README file for Log::Message::Simple, a simplified frontend
 to Log::Message (a small and powerful generic message logging module)
 
-Please type "perldoc Log::Message::Simple" after installation to see 
+Please type "perldoc Log::Message::Simple" after installation to see
 the module usage information.
 
 #####################################################################
@@ -12,7 +12,7 @@ Log::Message::Simple
     This module is a simplified frontend to Log::Message, offering
     most common use for logging, and easy access to the stack (in
     both raw and pretty-printable form).
-    
+
     See the Log::Message::Simple manpage, and the Log::Message
     module for details.
 
